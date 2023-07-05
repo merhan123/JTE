@@ -1,3 +1,4 @@
-@merge libraries {
-    sonarqube 
+libraries {
+    maven
+    sonarqube
 }
