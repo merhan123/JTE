@@ -1,2 +1,3 @@
 build()
+continuous_integration() 
 static_code_analysis()
